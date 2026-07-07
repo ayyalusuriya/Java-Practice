@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_Groom.iml" filepath="$PROJECT_DIR$/.idea/Java_Groom.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Number programs.iml" filepath="$PROJECT_DIR$/Number programs.iml" />
+>>>>>>> 1b6562da11c180ba3d3b9a1ebed38ff518e9f93c
     </modules>
   </component>
 </project>
