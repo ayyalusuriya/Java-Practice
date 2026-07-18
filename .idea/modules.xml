@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/ExceptionHandling.iml" filepath="$PROJECT_DIR$/ExceptionHandling.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_Groom.iml" filepath="$PROJECT_DIR$/.idea/Java_Groom.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Number programs.iml" filepath="$PROJECT_DIR$/Number programs.iml" />
+>>>>>>> 1b6562da11c180ba3d3b9a1ebed38ff518e9f93c
+>>>>>>> 4c8f9b890e98898d9d9dd998728c947494a78b24
     </modules>
   </component>
 </project>

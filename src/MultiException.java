@@ -22,6 +22,6 @@ public class MultiException {
         catch (NumberFormatException e){
             System.out.println("NumberException: " + e);
         }
-        System.out.println("Program Continues Normal...!");
+        System.out.println("Program Continues Normal...!"   );
     }
 }
