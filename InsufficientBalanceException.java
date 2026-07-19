@@ -19,7 +19,7 @@ class Custom{
     }
 
 
-    class Main {
+    class main {
         public static void main(String[] args) {
 
             Custom c = new Custom();
